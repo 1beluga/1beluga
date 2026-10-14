@@ -1,3 +1,5 @@
+<p align="center"> <img src="./assets/banner.png" alt="banner" width="100%"> </p>
+
 <p align="center">
   <a href="https://github.com/1beluga">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=420&text=Bankai" alt="Bankai" />
