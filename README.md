@@ -1,81 +1,99 @@
-<p align="center">
-  <a href="https://github.com/1beluga">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=420&text=Bankai" alt="Bankai" />
-  </a>
-</p>
+<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=0891b2&center=true&vCenter=true&width=420&height=44&lines=Hakka%20no%20Togame!;CS%20student%20%7C%20future%20DevOps;I%20use%20arch%20btw" alt="Typing headlines" />
+  <br/><br/>
+  <img src='https://count.getloli.com/@1beluga?name=1beluga&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <img src=".github/assets/stats.svg" width="400px"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=1beluga&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px"/>
+  <img width="400px" src=".github/assets/metrics-stats.svg" />
+  <img width="400px" src=".github/assets/metrics-repository.svg" />
+  <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
-<!-- Visitor counter (moe-counter). Replace theme if you want another look. -->
-<p align="center">
-  <img src="https://count.getloli.com/@1beluga?name=1beluga&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor counter" />
-</p>
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=1beluga&theme=high-contrast&hide_border=true&area=true" />
+<br clear="both" />
 
-<!-- Optional: drop your own banner image in .github/assets/ and uncomment -->
+---
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
 <!--
-<p align="center">
-  <img src=".github/assets/banner.png" alt="banner" width="100%" />
-</p>
+<div align="center">
+  <h2 align="center">Competitive programming</h2>
+  <br/>
+
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=YOUR_HANDLE&theme=highcontrast)](https://codeforces.com/profile/YOUR_HANDLE)
+  <br>
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=YOUR_HANDLE&theme=highcontrast)](https://codeforces.com/profile/YOUR_HANDLE)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=YOUR_HANDLE&theme=highcontrast)](https://codeforces.com/profile/YOUR_HANDLE)
+
+</div>
+
+<hr/>
 -->
 
-<p align="center">
-  <i>コードを書いているのではない。ただのモブキャラがキーボードを叩いているのだ。</i>
-</p>
-
----
-
-## About
-
-First-year CS student at HEI, aiming for DevOps. I build web apps, break networks in VMs, and rice my desktop more than I should.
-
----
-
-## Languages, Frameworks, Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nodejs,express,spring,tailwind,vite&perline=12" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,linux,arch,fedora,docker,bash&perline=12" alt="Tools" />
-</p>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=1beluga&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=1beluga&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1beluga&count_private=true&theme=midnight-purple&hide_border=true&v=122" alt="streak" />
-</p>
-
-<!-- Self-hosted metrics (generated by .github/workflows/metrics.yml) -->
-<p align="center">
-  <img src=".github/assets/metrics-stats.svg" alt="metrics" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=1beluga&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://instagram.com/1dah_tou"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@1skyaether"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:hei.toky.2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center"><i>made by <a href="https://github.com/1beluga">1beluga</a></i></p>
+<h4 align="center">made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/1beluga">belugaa</a></h4>
