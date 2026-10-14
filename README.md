@@ -1,16 +1,109 @@
+<!-- <div align="center">
+  <img src=".github/assets/ken.gif" alt="Profile Banner">
+  <h1>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
+  </h1>
+  <p align=center>
+  <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
+  &nbsp;
+  <a href="https://discord.com/users/mohabbat_v3" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord Logo"></a>
+  &nbsp;
+  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg" alt="Facebook Logo"></a>
+  &nbsp;
+  <!-- <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg" alt="Instagram Logo"></a>&nbsp; -->
+  <!-- <a href="https://x.com/mohabbat__vlx" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" alt="Twitter-x Logo"></a> -->
+  <!-- &nbsp; -->
+  <!-- <a href="https://www.youtube.com/@Veloxofcl" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube Logo"></a>&nbsp; -->
+  <!-- <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp; -->
+  <!-- <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/telegram.svg"></a>&nbsp; -->
+  <!-- <a href="https://www.pinterest.com/V3LOX" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/pinterest.svg"></a> -->
+  <!-- &nbsp; -->
+  <!-- </p> -->
+<!-- </div> -->
+
+
+
+
+
+
+
+<!-- <div align="center"> -->
+  <!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="divider"/>
+  </picture>
+  <br /> -->
+  <!-- ═══ NAME ══════════════════════════════════════════════════ -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat"
+        alt="Andrew Velox typing animation" />
+  </picture> -->
+
+  <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
+  </picture> -->
+<!-- </div> -->
+
+
+
+<!-- <div align="center"> -->
+  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
+  
+  <!-- <hr /> -->
+<!-- </div> -->
+
+
+
+
+<!-- 
+<div>
+
+  ### About me
+
+  <div><img align="right" alt="GIF" src=".github/assets/samurai4.png"" width="200" height="100%" /></div>
+
+  | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Final-year CSE Student </p>  |
+  | --------------------------------------------------------- |
+  | 🕋 **Religion:** 🤍 Islam 🤍                              |
+  | 🏫 Dhaka, Bangladesh                                      |
+  | 💻 Core Contributor at the [ziex-dev](https://github.com/ziex-dev).                                                  |  
+  | 🦀 **Currently building:** Rust tools.                    |
+  | 🐧 **Environment:** <a href="https://github.com/archlinux">Arch Linux</a> + <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>.                |
+  | 💙 **Love to:** Sleep                    |
+  | 🌐 **Languages:** 🇧🇩  • 🇺🇸                          |
+
+---
+
+
+</div>
+
+
+<br clear="both" /> -->
+
 <img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
 
 <p align="center">
   <br/><br/>
-  <img src='https://count.getloli.com/@1beluga?name=1beluga&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
+  <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
   <img src=".github/assets/stats.svg" width="400px"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=1beluga&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=andrew-velox&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px"/>
   <img width="400px" src=".github/assets/metrics-stats.svg" />
   <img width="400px" src=".github/assets/metrics-repository.svg" />
   <img width="400px" src=".github/assets/metrics-activity.svg" />
 </p>
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=1beluga&theme=high-contrast&hide_border=true&area=true" />
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
 <br clear="both" />
 
 ---
@@ -21,58 +114,73 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="express" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Nodejs" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
+    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
     </td>
   </tr>
 </table>
@@ -81,19 +189,19 @@
 
 ---
 
-<!--
 <div align="center">
-  <h2 align="center">Competitive programming</h2>
+  <h2 align="center">💻 Competitive programming 💻</h2>
   <br/>
 
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=YOUR_HANDLE&theme=highcontrast)](https://codeforces.com/profile/YOUR_HANDLE)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
   <br>
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=YOUR_HANDLE&theme=highcontrast)](https://codeforces.com/profile/YOUR_HANDLE)
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=YOUR_HANDLE&theme=highcontrast)](https://codeforces.com/profile/YOUR_HANDLE)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
 
 </div>
 
-<hr/>
--->
 
-<h4 align="center">made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/1beluga">belugaa</a></h4>
+
+<hr/>
+
+<h4 align="center">made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">mohabbat</a></h4>
