@@ -1,4 +1,4 @@
-<p align="center"> <img src="./assets/banner.jpg" alt="banner" width="100%"> </p>
+<p align="center"> <img src=".assets/banner.jpg" alt="banner" width="100%"> </p>
 
 <p align="center">
   <a href="https://github.com/1beluga">
