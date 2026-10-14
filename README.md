@@ -63,4 +63,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/1beluga">1beluga</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/1beluga">1beluga :3</a></i></p>
