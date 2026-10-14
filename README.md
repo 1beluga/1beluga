@@ -1,207 +1,64 @@
-<!-- <div align="center">
-  <img src=".github/assets/ken.gif" alt="Profile Banner">
-  <h1>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Hand"> Hi, I'm <a href="https://andrew-velox.github.io/" style="text-decoration: none;">Mohabbat!</a>
-  </h1>
-  <p align=center>
-  <a href="https://www.linkedin.com/in/mohabbatvlx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
-  &nbsp;
-  <a href="https://discord.com/users/mohabbat_v3" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord Logo"></a>
-  &nbsp;
-  <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg" alt="Facebook Logo"></a>
-  &nbsp;
-  <!-- <a href="https://facebook.com/mohabbat404" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg" alt="Instagram Logo"></a>&nbsp; -->
-  <!-- <a href="https://x.com/mohabbat__vlx" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" alt="Twitter-x Logo"></a> -->
-  <!-- &nbsp; -->
-  <!-- <a href="https://www.youtube.com/@Veloxofcl" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube Logo"></a>&nbsp; -->
-  <!-- <a href="https://instagram.com/mohabbat__vlx" onclick="window.open(this.href, '_blank'); return false;"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp; -->
-  <!-- <a href="https://t.me/V3L0X" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/telegram.svg"></a>&nbsp; -->
-  <!-- <a href="https://www.pinterest.com/V3LOX" target="_blank"><img height="25" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/pinterest.svg"></a> -->
-  <!-- &nbsp; -->
-  <!-- </p> -->
-<!-- </div> -->
-
-
-
-
-
-
-
-<!-- <div align="center"> -->
-  <!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="divider"/>
-  </picture>
-  <br /> -->
-  <!-- ═══ NAME ══════════════════════════════════════════════════ -->
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat" />
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Andrew+Velox;Mohabbat"
-        alt="Andrew Velox typing animation" />
-  </picture> -->
-
-  <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" />
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=CSE+Student+%E2%80%94+Green+University;CPP+%C2%B7+Python+%C2%B7+Django" alt="Andrew Velox typing animation" />
-  </picture> -->
-<!-- </div> -->
-
-
-
-<!-- <div align="center"> -->
-  <!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
-  
-  <!-- <hr /> -->
-<!-- </div> -->
-
-
-
-
-<!-- 
-<div>
-
-  ### About me
-
-  <div><img align="right" alt="GIF" src=".github/assets/samurai4.png"" width="200" height="100%" /></div>
-
-  | <p align="left">🎓 <a href="https://green.edu.bd/" style="text-decoration: none;">GUB</a> • Final-year CSE Student </p>  |
-  | --------------------------------------------------------- |
-  | 🕋 **Religion:** 🤍 Islam 🤍                              |
-  | 🏫 Dhaka, Bangladesh                                      |
-  | 💻 Core Contributor at the [ziex-dev](https://github.com/ziex-dev).                                                  |  
-  | 🦀 **Currently building:** Rust tools.                    |
-  | 🐧 **Environment:** <a href="https://github.com/archlinux">Arch Linux</a> + <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>.                |
-  | 💙 **Love to:** Sleep                    |
-  | 🌐 **Languages:** 🇧🇩  • 🇺🇸                          |
-
----
-
-
-</div>
-
-
-<br clear="both" /> -->
-
-<img align='right' width="260" src='.github/assets/kenkankei_cmp.png'>
-
 <p align="center">
-  <br/><br/>
-  <img src='https://count.getloli.com/@Andrew-Velox?name=Andrew-Velox&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  <img src=".github/assets/stats.svg" width="400px"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=andrew-velox&count_private=true&theme=midnight-purple&hide_border=true&v122" width="400px"/>
-  <img width="400px" src=".github/assets/metrics-stats.svg" />
-  <img width="400px" src=".github/assets/metrics-repository.svg" />
-  <img width="400px" src=".github/assets/metrics-activity.svg" />
+  <a href="https://github.com/1beluga">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=420&text=Bankai" alt="Bankai" />
+  </a>
 </p>
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Velox&theme=high-contrast&hide_border=true&area=true" />
-<br clear="both" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Hakka%20no%20Togame!;I%20use%20arch%20btw" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
+
+「コードを書いているのではない。ただのモブキャラがキーボードを叩いているのだ。」
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/1dah_tou"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@1skyaether"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:hei.toky.2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=1beluga&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=1beluga&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=1beluga&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-<h2 align="center"> Languages-Frameworks-Tools </h2>
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="express" />
-    </td>
-    <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="express" />
-    </td>
-    <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="express" />
-    </td>
-    <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="express" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Nodejs" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="express" />
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="notion" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="PostgreSQL" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="gitlab" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-  <h2 align="center">💻 Competitive programming 💻</h2>
-  <br/>
-
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
-  <br>
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
-
-</div>
-
-
-
-<hr/>
-
-<h4 align="center">made with <img src=".github/assets/hearts_gif.gif" width="25" height="25"/> by <a href="https://github.com/andrew-velox">mohabbat</a></h4>
+<p align="center"><i>⭐️ From <a href="https://github.com/1beluga">1beluga</a></i></p>
